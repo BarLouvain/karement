@@ -39,7 +39,7 @@ export default function Home() {
         />
 
         <a
-          href="/Menu_Compleet.pdf" 
+          href="/menukaart_compleet_bijgewerkt.pdf" 
           target="_blank"
           rel="noopener noreferrer"
           style={{
