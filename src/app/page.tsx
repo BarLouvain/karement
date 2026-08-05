@@ -39,7 +39,7 @@ export default function Home() {
         />
 
         <a
-          href="/menu.pdf" 
+          href="/menu_augustus.pdf" 
           target="_blank"
           rel="noopener noreferrer"
           style={{
