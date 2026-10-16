@@ -39,7 +39,7 @@ export default function Home() {
         />
 
         <a
-          href="/menu_karément.pdf" 
+          href="/Karement_menu.pdf"
           target="_blank"
           rel="noopener noreferrer"
           style={{
